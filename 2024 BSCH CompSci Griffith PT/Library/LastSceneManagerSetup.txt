@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Exercise 1.unity
+- path: Assets/Scenes/Exercise 2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

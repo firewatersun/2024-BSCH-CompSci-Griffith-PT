@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638434473511023129
-    m_Hash: 1646665576
+      ticks: 638446562533905387
+    m_Hash: 4022620510
   m_LockFileStatus:
     m_FilePath: C:/Unity Projects/2024-BSCH-CompSci-Griffith-PT/2024 BSCH CompSci
       Griffith PT/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638434473865977744
-    m_Hash: 1176724763
+      ticks: 638446562533981149
+    m_Hash: 2820544759
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -159,6 +159,239 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 2.2.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.feature.2d@2.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 2.0.0
+  source: 2
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.feature.2d@2.0.0
+  assetPath: Packages/com.unity.feature.2d
+  name: com.unity.feature.2d
+  displayName: 2D
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: feature
+  description: Import images including multi-layered Photoshop files as Sprites and
+    configure them to create 2D games. Create freeform, tile-based and spline-based
+    2D game worlds. Create frame-by-frame and bone-based animated characters. Integrated
+    with 2D physics to support simulations with colliders and joints. Supports the
+    needs of a range of 2D art styles, including pixel art.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.0.0
+    compatible:
+    - 2.0.0
+    recommended: 2.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.2d.animation
+    version: default
+  - name: com.unity.2d.pixel-perfect
+    version: default
+  - name: com.unity.2d.psdimporter
+    version: default
+  - name: com.unity.2d.sprite
+    version: default
+  - name: com.unity.2d.spriteshape
+    version: default
+  - name: com.unity.2d.tilemap
+    version: default
+  - name: com.unity.2d.tilemap.extras
+    version: default
+  - name: com.unity.2d.aseprite
+    version: default
+  resolvedDependencies:
+  - name: com.unity.2d.animation
+    version: 9.1.0
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.2d.pixel-perfect
+    version: 5.0.3
+  - name: com.unity.2d.psdimporter
+    version: 8.0.4
+  - name: com.unity.2d.spriteshape
+    version: 9.0.2
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap.extras
+    version: 3.1.2
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.2d.aseprite
+    version: 1.1.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 2.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.feature.cinematic@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.feature.cinematic@1.0.0
+  assetPath: Packages/com.unity.feature.cinematic
+  name: com.unity.feature.cinematic
+  displayName: Cinematic Studio
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: feature
+  description: Create films, TV shows, and other animated linear content. Organize
+    and assemble your assets in structured sequences. Automate complex camera movements.
+    Export data for round-trip and review, and output your final cut. Work with common
+    film industry formats.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.timeline
+    version: default
+  - name: com.unity.sequences
+    version: default
+  - name: com.unity.formats.fbx
+    version: default
+  - name: com.unity.formats.alembic
+    version: default
+  - name: com.unity.cinemachine
+    version: default
+  - name: com.unity.recorder
+    version: default
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.7.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.unity.sequences
+    version: 2.0.1
+  - name: com.unity.recorder
+    version: 4.0.2
+  - name: com.unity.settings-manager
+    version: 2.0.1
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.formats.fbx
+    version: 4.2.1
+  - name: com.autodesk.fbx
+    version: 4.2.1
+  - name: com.unity.formats.alembic
+    version: 2.3.2
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.cloth
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.cinemachine
+    version: 2.9.5
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -389,6 +622,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
+    - 3.2.0-pre.9
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -403,6 +637,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
+    - 3.2.0-pre.9
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.8
@@ -3359,6 +3594,1631 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.sequences@2.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.1
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.sequences@2.0.1
+  assetPath: Packages/com.unity.sequences
+  name: com.unity.sequences
+  displayName: Sequences
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: 'Efficiently create movies, game cinematics or any other linear content.
+
+    Organize
+    your project''s editorial structure and your creative content, assemble the elements
+    for easy authoring and collaboration, and try out new ideas in a non-destructive
+    way.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
+    - 1.1.0
+    - 2.0.0-pre.1
+    - 2.0.0-pre.2
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0-pre.1
+    - 2.1.0
+    - 2.1.1
+    compatible:
+    - 2.0.1
+    - 2.1.0-pre.1
+    - 2.1.0
+    - 2.1.1
+    recommended: 2.0.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.timeline
+    version: 1.6.3
+  - name: com.unity.recorder
+    version: 2.5.5
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.7.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.unity.recorder
+    version: 4.0.2
+  - name: com.unity.settings-manager
+    version: 2.0.1
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638004097040000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sequences.git
+    revision: e2d5740f87084f8bad9e563db2bb1c42ea34b649
+    path: 
+  unityLifecycle:
+    version: 2.0.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.formats.fbx@4.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 4.2.1
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.formats.fbx@4.2.1
+  assetPath: Packages/com.unity.formats.fbx
+  name: com.unity.formats.fbx
+  displayName: FBX Exporter
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: "The Unity FBX Exporter package makes it easy to send geometry and
+    animation to any application that supports the FBX format and send them back
+    to Unity with minimal effort.\n\nIn particular, this round-trip workflow enables
+    you to export Unity Scenes to FBX files, import them into Autodesk\xAE Maya\xAE,
+    Autodesk\xAE Maya LT\u2122, or Autodesk\xAE 3ds Max\xAE using an artist-friendly
+    interface, export Unity-ready FBX geometry and animation, and safely merge your
+    changes back into those Assets to continue your work in Unity."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.0.1-preview.2
+    - 2.0.1-preview.3
+    - 2.0.1-preview.4
+    - 2.0.1-preview.5
+    - 2.0.1-preview.11
+    - 2.0.2-preview.1
+    - 2.0.3-preview.3
+    - 3.0.0-preview.2
+    - 3.0.1-preview.2
+    - 3.1.0-preview.1
+    - 3.2.0-preview.2
+    - 3.2.1-preview.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.4
+    - 4.0.1
+    - 4.1.0-pre.2
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.2.0-pre.1
+    - 4.2.0
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    compatible:
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    recommended: 4.2.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.timeline
+    version: 1.7.1
+  - name: com.autodesk.fbx
+    version: 4.2.1
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.7.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.autodesk.fbx
+    version: 4.2.1
+  keywords:
+  - fbx
+  - animation
+  - modeling
+  - maya
+  - max
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638089453510000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.formats.fbx@4.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.formats.fbx.git
+    revision: 877a978d1923ee725cad1883350d6effee574951
+    path: 
+  unityLifecycle:
+    version: 4.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.formats.alembic@2.3.2
+  testable: 0
+  isDirectDependency: 0
+  version: 2.3.2
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.formats.alembic@2.3.2
+  assetPath: Packages/com.unity.formats.alembic
+  name: com.unity.formats.alembic
+  displayName: Alembic
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: 'Import and export Alembic files (.abc), record and stream animations
+    in the Alembic format directly in Unity.
+
+    NOTE: Supported build platforms:
+    only Windows 64, MacOS X, Linux 64, and Stadia.
+
+
+    The Alembic format is commonly
+    used in animation to transfer facial, cloth, and other simulation between applications
+    in the form of baked data.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.2-preview
+    - 1.0.0-preview.2
+    - 1.0.0-preview.7
+    - 1.0.0-preview.8
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 2.0.0-preview.1
+    - 2.0.1-preview.1
+    - 2.1.0-preview.3
+    - 2.1.1-pre.1
+    - 2.1.2
+    - 2.1.3
+    - 2.2.0-exp.1
+    - 2.2.0-exp.2
+    - 2.2.0-pre.3
+    - 2.2.0-pre.4
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.3.0-pre.1
+    - 2.3.0-pre.2
+    - 2.3.0-pre.3
+    - 2.3.0
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    compatible:
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    recommended: 2.3.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.timeline
+    version: 1.0.0
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.cloth
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.7.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.cloth
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords:
+  - alembic
+  - abc
+  - animation
+  - facial
+  - cloth
+  - simulation
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638193058490000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.formats.alembic@2.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.formats.alembic.git
+    revision: 7a5ae5f5959a395d8fa04ca724a202f124a7dad7
+    path: 
+  unityLifecycle:
+    version: 2.3.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.cinemachine@2.9.5
+  testable: 0
+  isDirectDependency: 0
+  version: 2.9.5
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.cinemachine@2.9.5
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: asset
+  description: "Smart camera tools for passionate creators. \n\nNew starting from
+    2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
+    menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
+    of Cinemachine, delete the Cinemachine asset from your project BEFORE installing
+    this version from the Package Manager."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    - 2.9.2
+    - 2.9.4
+    - 2.9.5
+    - 2.9.7
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    compatible:
+    - 2.9.5
+    - 2.9.7
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    recommended: 2.9.7
+    deprecated: []
+  dependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  resolvedDependencies:
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638102365180000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@2.9/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 4b4405b9505ecfa1cb2d2b03df8f3309c12f3b0d
+    path: 
+  unityLifecycle:
+    version: 2.9.5
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.recorder@4.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 4.0.2
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.recorder@4.0.2
+  assetPath: Packages/com.unity.recorder
+  name: com.unity.recorder
+  displayName: Recorder
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: 'The Recorder allows you to capture and save data from the Unity Editor
+    during Play mode: animations, videos, images, audio, arbitrary output variables
+    (AOVs), and more.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.0.0-preview.6
+    - 2.0.1-preview.1
+    - 2.0.2-preview.3
+    - 2.0.3-preview.1
+    - 2.1.0-preview.1
+    - 2.2.0-preview.4
+    - 2.3.0-preview.3
+    - 2.4.0-preview.1
+    - 2.5.0-pre.1
+    - 2.5.2
+    - 2.5.4
+    - 2.5.5
+    - 2.5.7
+    - 2.6.0-exp.3
+    - 2.6.0-exp.4
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0-pre.4
+    - 4.0.0-pre.5
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    compatible:
+    - 4.0.2
+    recommended: 4.0.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.timeline
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.7.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  keywords:
+  - unity
+  - recorder
+  - recording
+  - capture
+  - video
+  - animation
+  - clip
+  - images
+  - AOV
+  - render
+  - pass
+  - layer
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638351473610000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.recorder@4.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.recorder.git
+    revision: c86a3d9e57541ce2ccff8ece1fd8f140bbe5e772
+    path: 
+  unityLifecycle:
+    version: 4.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.animation@9.1.0
+  testable: 0
+  isDirectDependency: 0
+  version: 9.1.0
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.animation@9.1.0
+  assetPath: Packages/com.unity.2d.animation
+  name: com.unity.2d.animation
+  displayName: 2D Animation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: assets
+  description: 2D Animation provides all the necessary tooling and runtime components
+    for skeletal animation using Sprites.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.15-preview.1
+    - 1.0.15-preview.2
+    - 1.0.15-preview.3
+    - 1.0.15-preview.4
+    - 1.0.15-preview.5
+    - 1.0.16-preview
+    - 1.0.16-preview.1
+    - 1.0.16-preview.2
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0-preview.3
+    - 2.1.0-preview.1
+    - 2.1.0-preview.2
+    - 2.1.0-preview.4
+    - 2.1.0-preview.5
+    - 2.1.0-preview.7
+    - 2.2.0-preview.1
+    - 2.2.0-preview.4
+    - 2.2.0-preview.5
+    - 2.2.1-preview.1
+    - 2.2.1-preview.2
+    - 3.0.2
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.8
+    - 3.1.0
+    - 3.1.1
+    - 3.2.1
+    - 3.2.2
+    - 3.2.3
+    - 3.2.4
+    - 3.2.5
+    - 3.2.6
+    - 3.2.9
+    - 3.2.10
+    - 3.2.11
+    - 3.2.13
+    - 3.2.14
+    - 3.2.15
+    - 3.2.16
+    - 3.2.17
+    - 3.2.18
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.1.1
+    - 4.2.1
+    - 4.2.2
+    - 4.2.3
+    - 4.2.4
+    - 4.2.5
+    - 4.2.6
+    - 4.2.8
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    - 5.0.4
+    - 5.0.5
+    - 5.0.6
+    - 5.0.7
+    - 5.0.8
+    - 5.0.9
+    - 5.0.10
+    - 5.1.0
+    - 5.1.1
+    - 5.2.0
+    - 5.2.1
+    - 5.2.3
+    - 5.2.4
+    - 5.2.6
+    - 5.2.7
+    - 6.0.0-pre.1
+    - 6.0.0-pre.2
+    - 6.0.1
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.7
+    - 7.0.0-pre.2
+    - 7.0.0-pre.3
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
+    - 7.0.6
+    - 7.0.7
+    - 7.0.8
+    - 7.0.9
+    - 7.0.10
+    - 7.0.11
+    - 7.0.12
+    - 7.0.13
+    - 7.1.0
+    - 8.0.0-pre.3
+    - 8.0.0-pre.4
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 8.0.3
+    - 8.0.4
+    - 8.0.5
+    - 9.0.0-pre.1
+    - 9.0.0-pre.3
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 9.0.3
+    - 9.0.4
+    - 9.1.0
+    - 10.0.0-pre.1
+    - 10.0.0-pre.2
+    - 10.0.0
+    - 10.0.1
+    - 10.0.2
+    - 10.0.3
+    - 10.1.0
+    - 10.1.1
+    compatible:
+    - 9.1.0
+    recommended: 9.1.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 1.1.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  keywords:
+  - 2d
+  - animation
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638406543510000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@9.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: dfc01cb8076aa8ca74afe1ded252f91c99b080ac
+    path: 
+  unityLifecycle:
+    version: 9.1.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.pixel-perfect@5.0.3
+  testable: 0
+  isDirectDependency: 0
+  version: 5.0.3
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
+  assetPath: Packages/com.unity.2d.pixel-perfect
+  name: com.unity.2d.pixel-perfect
+  displayName: 2D Pixel Perfect
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: tool
+  description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
+    which ensures your pixel art remains crisp and clear at different resolutions,
+    and stable in motion.
+
+
+    It is a single component that makes all the calculations
+    needed to scale the viewport with resolution changes, removing the hassle from
+    the user. The user can adjust the definition of the pixel art rendered within
+    the camera viewport through the component settings, as well preview any changes
+    immediately in Game view by using the Run in Edit Mode feature.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview
+    - 1.0.1-preview
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    compatible:
+    - 5.0.3
+    recommended: 5.0.3
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - pixel
+  - perfect
+  - 2D
+  - sprite
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638023910590000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 6dea8ac5bd6953acd64f1ac9d470912954b0c015
+    path: 
+  unityLifecycle:
+    version: 5.0.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.psdimporter@8.0.4
+  testable: 0
+  isDirectDependency: 0
+  version: 8.0.4
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.psdimporter@8.0.4
+  assetPath: Packages/com.unity.2d.psdimporter
+  name: com.unity.2d.psdimporter
+  displayName: 2D PSD Importer
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: assets
+  description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
+    file format. The ScriptedImporter is currently targeted for users who wants to
+    create multi Sprite character animation using Unity 2D Animation Package.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.1.0-preview.1
+    - 1.1.0-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.3
+    - 1.2.0-preview.4
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.7
+    - 2.1.0
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 3.0.0
+    - 3.1.1
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    - 3.1.7
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.1
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 6.0.8
+    - 6.0.9
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.3
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 8.0.3
+    - 8.0.4
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    compatible:
+    - 8.0.4
+    recommended: 8.0.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.2d.animation
+    version: 9.1.0
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.animation
+    version: 9.1.0
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.collections
+    version: 1.2.4
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  keywords:
+  - 2d
+  - psdimporter
+  - assetimporter
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638406543530000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@8.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: dfc01cb8076aa8ca74afe1ded252f91c99b080ac
+    path: 
+  unityLifecycle:
+    version: 8.0.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.spriteshape@9.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 9.0.2
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.spriteshape@9.0.2
+  assetPath: Packages/com.unity.2d.spriteshape
+  name: com.unity.2d.spriteshape
+  displayName: 2D SpriteShape
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: SpriteShape Runtime & Editor Package contains the tooling and the
+    runtime component that allows you to create very organic looking spline based
+    2D worlds. It comes with intuitive configurator and a highly performant renderer.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.10-preview.2
+    - 1.0.11-preview
+    - 1.0.12-preview
+    - 1.0.12-preview.1
+    - 1.0.14-preview.2
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.0-preview.7
+    - 2.0.0-preview.8
+    - 2.0.0-preview.9
+    - 2.1.0-preview.2
+    - 2.1.0-preview.6
+    - 2.1.0-preview.7
+    - 2.1.0-preview.10
+    - 2.1.0-preview.11
+    - 3.0.1
+    - 3.0.2
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.7
+    - 3.0.8
+    - 3.0.9
+    - 3.0.10
+    - 3.0.11
+    - 3.0.12
+    - 3.0.13
+    - 3.0.14
+    - 3.0.15
+    - 3.0.16
+    - 3.0.17
+    - 3.0.18
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.1.0
+    - 5.1.1
+    - 5.1.2
+    - 5.1.3
+    - 5.1.4
+    - 5.1.5
+    - 5.1.6
+    - 5.1.7
+    - 5.2.0
+    - 5.3.0
+    - 6.0.0-pre.1
+    - 6.0.0-pre.2
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 7.0.0-pre.2
+    - 7.0.0-pre.3
+    - 7.0.0
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
+    - 7.0.6
+    - 7.0.7
+    - 8.0.0-pre.4
+    - 8.0.0-pre.5
+    - 8.0.0
+    - 8.0.1
+    - 9.0.0-pre.1
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 10.0.0-pre.1
+    - 10.0.0-pre.2
+    - 10.0.0
+    - 10.0.1
+    - 10.0.2
+    - 10.0.3
+    compatible:
+    - 9.0.2
+    recommended: 9.0.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.2d.common
+    version: 8.0.1
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  keywords:
+  - 2d
+  - shape
+  - spriteshape
+  - smartsprite
+  - spline
+  - terrain2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638150103540000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@9.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: ff926a6d093212af31bc3c835f61abfbb1b3f163
+    path: 
+  unityLifecycle:
+    version: 9.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.tilemap.extras@3.1.2
+  testable: 0
+  isDirectDependency: 0
+  version: 3.1.2
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.tilemap.extras@3.1.2
+  assetPath: Packages/com.unity.2d.tilemap.extras
+  name: com.unity.2d.tilemap.extras
+  displayName: 2D Tilemap Extras
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: assets
+  description: '2D Tilemap Extras is a package that contains extra scripts for use
+    with 2D Tilemap features in Unity. These include custom Tiles and Brushes for
+    the Tilemap feature.
+
+
+    The following are included in the package:
+
+    Brushes:
+    GameObject Brush, Group Brush, Line Brush, Random Brush
+
+    Tiles: Animated
+    Tile, Rule Tile, Rule Override Tile
+
+    Other: Grid Information, Custom Rules
+    for Rule Tile'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.5.0-preview
+    - 1.6.0-preview.1
+    - 1.6.1-preview
+    - 1.6.2-preview
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.7.0-preview
+    - 1.8.0-preview
+    - 1.8.1-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 1.8.4-preview
+    - 2.0.0-pre.1
+    - 2.0.0-pre.2
+    - 2.0.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    compatible:
+    - 3.1.2
+    recommended: 3.1.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638320873890000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@3.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/2d-extras.git
+    revision: 741b52ca8bcd71b4e016208dbfe792374ca334c8
+    path: 
+  unityLifecycle:
+    version: 3.1.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.aseprite@1.1.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.1.0
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.aseprite@1.1.0
+  assetPath: Packages/com.unity.2d.aseprite
+  name: com.unity.2d.aseprite
+  displayName: 2D Aseprite Importer
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: assets
+  description: 2D Aseprite Importer is a package which enables the import of .aseprite
+    files from the Pixel Art tool Aseprite.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0
+    - 1.0.1
+    - 1.1.0
+    - 1.1.1
+    compatible:
+    - 1.1.0
+    - 1.1.1
+    recommended: 1.1.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.2d.common
+    version: 8.0.2
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.12
+  keywords:
+  - 2d
+  - Aseprite
+  - Pixel
+  - Art
+  - assetimporter
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638366862780000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.aseprite@1.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/AsepriteImporter.git
+    revision: 1b0a451670ab3ee197ea415f7941f9c2a81c20fc
+    path: 
+  unityLifecycle:
+    version: 1.1.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.settings-manager@2.0.1
   testable: 0
   isDirectDependency: 0
@@ -3488,6 +5348,649 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.6
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.autodesk.fbx@4.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 4.2.1
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.autodesk.fbx@4.2.1
+  assetPath: Packages/com.autodesk.fbx
+  name: com.autodesk.fbx
+  displayName: Autodesk FBX SDK for Unity
+  author:
+    name: Unity
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: "This package provides Unity C# bindings to the Autodesk\xAE FBX\xAE
+    SDK."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.0.0-preview
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.0-preview.6
+    - 2.0.0-preview.7
+    - 2.0.1-preview.1
+    - 3.0.0-preview.1
+    - 3.0.1-preview.1
+    - 3.1.0-preview.1
+    - 3.1.0-preview.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.1
+    - 4.1.0-pre.1
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.2.0-pre.1
+    - 4.2.0
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    compatible:
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    recommended: 4.2.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - fbx
+  - animation
+  - modeling
+  - maya
+  - max
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638089453470000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.autodesk.fbx@4.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.autodesk.fbx.git
+    revision: 0d5f364e4c87bd0b741293e1abd178b456e7338c
+    path: 
+  unityLifecycle:
+    version: 4.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.common@8.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 8.0.2
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.2d.common@8.0.2
+  assetPath: Packages/com.unity.2d.common
+  name: com.unity.2d.common
+  displayName: 2D Common
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: assets
+  description: 2D Common is a package that contains shared functionalities that are
+    used by most of the other 2D packages.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.9-preview.1
+    - 1.0.9-preview.2
+    - 1.0.10-preview
+    - 1.0.11-preview.1
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.2.0-preview.1
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 3.0.0
+    - 3.0.1
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.1.0
+    - 4.2.0
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.2
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 9.0.3
+    - 9.0.4
+    compatible:
+    - 8.0.2
+    recommended: 8.0.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.7.3
+  resolvedDependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.8.12
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638373846610000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@8.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: b7537404d2cb8ef24b567ac4733b4c586fb25b44
+    path: 
+  unityLifecycle:
+    version: 8.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.mathematics@1.2.6
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.6
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.mathematics@1.2.6
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.3.1
+    - 1.3.2
+    compatible:
+    - 1.2.6
+    - 1.3.1
+    - 1.3.2
+    recommended: 1.2.6
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637841876140000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: f110c8c230d253654afed153569030a587cc7557
+    path: 
+  unityLifecycle:
+    version: 1.2.6
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.collections@1.2.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.4
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.collections@1.2.4
+  assetPath: Packages/com.unity.collections
+  name: com.unity.collections
+  displayName: Collections
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: A C# collections library providing data structures that can be used
+    in jobs, and optimized by Burst compiler.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.9-preview.1
+    - 0.0.9-preview.2
+    - 0.0.9-preview.3
+    - 0.0.9-preview.4
+    - 0.0.9-preview.5
+    - 0.0.9-preview.6
+    - 0.0.9-preview.7
+    - 0.0.9-preview.8
+    - 0.0.9-preview.9
+    - 0.0.9-preview.10
+    - 0.0.9-preview.11
+    - 0.0.9-preview.12
+    - 0.0.9-preview.13
+    - 0.0.9-preview.14
+    - 0.0.9-preview.15
+    - 0.0.9-preview.16
+    - 0.0.9-preview.17
+    - 0.0.9-preview.18
+    - 0.0.9-preview.19
+    - 0.0.9-preview.20
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.13
+    - 0.3.0-preview.0
+    - 0.4.0-preview.6
+    - 0.5.0-preview.9
+    - 0.5.1-preview.11
+    - 0.5.2-preview.8
+    - 0.6.0-preview.9
+    - 0.7.0-preview.2
+    - 0.7.1-preview.3
+    - 0.8.0-preview.5
+    - 0.9.0-preview.5
+    - 0.9.0-preview.6
+    - 0.11.0-preview.17
+    - 0.12.0-preview.13
+    - 0.14.0-preview.16
+    - 0.15.0-preview.21
+    - 0.17.0-preview.18
+    - 1.0.0-pre.3
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.1.0
+    - 1.2.3-pre.1
+    - 1.2.3
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 2.1.0-exp.4
+    - 2.1.0-pre.2
+    - 2.1.0-pre.6
+    - 2.1.0-pre.11
+    - 2.1.0-pre.18
+    - 2.1.1
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0-exp.1
+    - 2.3.0-pre.3
+    - 2.4.0-exp.2
+    - 2.4.0-pre.2
+    compatible:
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 2.1.0-exp.4
+    - 2.1.0-pre.2
+    - 2.1.0-pre.6
+    - 2.1.0-pre.11
+    - 2.1.0-pre.18
+    - 2.1.1
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0-exp.1
+    - 2.3.0-pre.3
+    - 2.4.0-exp.2
+    - 2.4.0-pre.2
+    recommended: 1.2.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.test-framework
+    version: 1.1.31
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - dots
+  - collections
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637908244640000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 32d153034bea0703098263469b88c73619422782
+    path: 
+  unityLifecycle:
+    version: 1.2.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.burst@1.8.12
+  testable: 0
+  isDirectDependency: 0
+  version: 1.8.12
+  source: 1
+  resolvedPath: C:\Unity Projects\2024-BSCH-CompSci-Griffith-PT\2024 BSCH CompSci
+    Griffith PT\Library\PackageCache\com.unity.burst@1.8.12
+  assetPath: Packages/com.unity.burst
+  name: com.unity.burst
+  displayName: Burst
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Burst is a compiler that translates from IL/.NET bytecode to highly
+    optimized native code using LLVM.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.2.4-preview.5
+    - 0.2.4-preview.7
+    - 0.2.4-preview.11
+    - 0.2.4-preview.12
+    - 0.2.4-preview.13
+    - 0.2.4-preview.14
+    - 0.2.4-preview.15
+    - 0.2.4-preview.16
+    - 0.2.4-preview.17
+    - 0.2.4-preview.18
+    - 0.2.4-preview.19
+    - 0.2.4-preview.20
+    - 0.2.4-preview.21
+    - 0.2.4-preview.22
+    - 0.2.4-preview.23
+    - 0.2.4-preview.24
+    - 0.2.4-preview.25
+    - 0.2.4-preview.30
+    - 0.2.4-preview.31
+    - 0.2.4-preview.33
+    - 0.2.4-preview.34
+    - 0.2.4-preview.37
+    - 0.2.4-preview.41
+    - 0.2.4-preview.45
+    - 0.2.4-preview.48
+    - 0.2.4-preview.50
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.5
+    - 1.2.0-preview.6
+    - 1.2.0-preview.8
+    - 1.2.0-preview.9
+    - 1.2.0-preview.10
+    - 1.2.0-preview.11
+    - 1.2.0-preview.12
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0-preview.1
+    - 1.3.0-preview.2
+    - 1.3.0-preview.3
+    - 1.3.0-preview.4
+    - 1.3.0-preview.5
+    - 1.3.0-preview.6
+    - 1.3.0-preview.7
+    - 1.3.0-preview.8
+    - 1.3.0-preview.9
+    - 1.3.0-preview.10
+    - 1.3.0-preview.11
+    - 1.3.0-preview.12
+    - 1.3.0-preview.13
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.0-pre.1
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.4
+    - 1.4.0-preview.5
+    - 1.4.1-pre.1
+    - 1.4.1-pre.2
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4-preview.1
+    - 1.4.4-preview.2
+    - 1.4.4
+    - 1.4.5
+    - 1.4.6
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.11
+    - 1.5.0-pre.3
+    - 1.5.0-pre.4
+    - 1.5.0-pre.5
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6-preview.1
+    - 1.5.6
+    - 1.6.0-pre.2
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.6.6
+    - 1.7.0-pre.1
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.8.3
+    - 1.8.4
+    - 1.8.7
+    - 1.8.8
+    - 1.8.9
+    - 1.8.10
+    - 1.8.11
+    - 1.8.12
+    compatible:
+    - 1.8.12
+    recommended: 1.8.12
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638406469710000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: git@github.cds.internal.unity3d.com:unity/burst
+    revision: a18fd968a92da11c38d1edd157e68ad9a490e67b
+    path: 
+  unityLifecycle:
+    version: 1.8.12
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0

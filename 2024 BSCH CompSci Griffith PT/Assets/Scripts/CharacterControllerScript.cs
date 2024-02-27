@@ -32,6 +32,17 @@ public class CharacterControllerScript : MonoBehaviour
     {
         anim.SetFloat("speed", Mathf.Abs(myRb.velocity.x)); // sets the speed parameter in the animator to the absolute value of the player's x velocity
         
+        //animation flip code
+        if (Input.GetAxis("Horizontal")>0.1f) // if the player is moving to the right
+        {
+            anim.transform.localScale = new Vector3(1, 1, 1); // set the scale of the player to 1,1,1
+        }
+        if (Input.GetAxis("Horizontal") < -0.1f) // if the player is moving to the left
+        {
+            anim.transform.localScale = new Vector3(-1, 1, 1); // set the scale of the player to -1,1,1
+        }
+        //animation flip code end
+        
         if (Mathf.Abs(Input.GetAxis("Horizontal")) > 0.1f && Mathf.Abs(myRb.velocity.x) < maxSpeed) // if the absolute value of the input is greater than 0.1, and player is not moving faster than max Speed
         {
            myRb.AddForce(new Vector2(Input.GetAxis("Horizontal")*acceleration, 0), ForceMode2D.Force); //gets Input value and multiplies it by acceleration in the x direction.

@@ -9,3 +9,11 @@ Create a character controller in 2D
 Exercise 3
 
 Create a level that can be moved around in, with player animations and effectors e.g. platform effectors. Use Tilemap 2D
+
+Exercise 4
+
+Create a Game Manager gameobject that will control score and health. 
+Create a score pickup that increases the player score. Create a UI that displays the player's score and health. 
+Create checkpoints for the player, and a killzone that resets the player to the last checkpoint.
+
+HOMEWORK: Create a spike trap (or other) that damages the player -1 health Optional: add jump and fall animations to the player.

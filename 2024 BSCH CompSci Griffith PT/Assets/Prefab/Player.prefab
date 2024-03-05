@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e029f28147d23b341a1c49bf654b0185, type: 3}
+  m_Sprite: {fileID: -512910566, guid: f0bf2ff4783a48249922db322b04f94f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -155,7 +155,7 @@ GameObject:
   - component: {fileID: 7294629110766792107}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -274,7 +274,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 1
+  m_LinearDrag: 1.27
   m_AngularDrag: 0.05
   m_GravityScale: 6
   m_Material: {fileID: 0}
@@ -286,7 +286,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!114 &5358465341887733913
 MonoBehaviour:
@@ -300,15 +300,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca9c5365f9b11a447bf462b4c71b21a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 20
-  acceleration: 15
+  maxSpeed: 8
+  acceleration: 6
   myRb: {fileID: 7872447164491810039}
-  jumpForce: 30
+  jumpForce: 18
   isGrounded: 1
-  secondaryJumpForce: 4.5
+  secondaryJumpForce: 3
   secondaryJumpTime: 0.4
   secondaryJump: 0
-  anim: {fileID: 0}
+  anim: {fileID: 209211608037515354}
 --- !u!61 &7294629110766792107
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -28,7 +28,7 @@ public class CharacterControllerScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         anim.SetFloat("speed", Mathf.Abs(myRb.velocity.x)); // sets the speed parameter in the animator to the absolute value of the player's x velocity
         
@@ -48,6 +48,11 @@ public class CharacterControllerScript : MonoBehaviour
            myRb.AddForce(new Vector2(Input.GetAxis("Horizontal")*acceleration, 0), ForceMode2D.Force); //gets Input value and multiplies it by acceleration in the x direction.
         }
 
+
+    }
+
+    private void Update()
+    {
         //JUMP CODE
         if (isGrounded == true && Input.GetButtonDown("Jump")) // if the player is grounded and the jump button is pressed
         {

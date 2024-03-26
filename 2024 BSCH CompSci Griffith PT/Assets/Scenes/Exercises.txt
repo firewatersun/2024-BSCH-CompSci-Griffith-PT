@@ -25,13 +25,13 @@ The enemy should know where the player is in relation to itself, so it knows whi
 BONUS: have the animations hooked up so the enemy animates correctly, AND changes direction based on which way it is moving
 
 Exercise 6
-3D Level Design & 3D Character Controller with animations
+3D Level Design & Navmesh 
 
 Exercise 7
-Navmesh & State Machines
+3D Character Controller with animations & Enemy State Machines & Patrolling
 
 Exercise 8 
 Postprocessing & Lighting
 
-Week 9 - 12
-Study classes
+Week 9 - 12 - 40% final game
+Final Project - Studio classes
